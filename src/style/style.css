@@ -1,0 +1,7 @@
+body {
+  background-color: #e3e3e3 !important
+}
+
+tr.table__rows:hover {
+    cursor: pointer
+}
