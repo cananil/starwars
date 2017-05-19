@@ -1,0 +1,8 @@
+import {
+  API_PEOPLE_URL,
+  API_PLANETS_URL,
+  API_FILMS_URL,
+  API_SPECIES_URL,
+  API_VEHICLES_URL,
+  API_STARSHIPS_URL
+} from './constants';
