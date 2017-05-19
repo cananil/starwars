@@ -1,2 +1,2 @@
 # starwars
-swap react
+swapi react-redux
