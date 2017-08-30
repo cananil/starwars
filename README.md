@@ -1,6 +1,6 @@
 # **starwars app**
 
-## A react application with Starwars API[sawpi]. 
+## A react application with Starwars API[swapi]. 
 
 
 + swapi react-redux
