@@ -1,11 +1,9 @@
 # **starwars app**
 
-## A react application with Starwars API[swapi]. 
-
+## A react application with Starwars API [swapi]. 
 
 + swapi react-redux
-+ 
-+
+
 
 ### _To do list_ 
 + adding profile pages
