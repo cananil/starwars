@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div>
         <h1 className="display-1">
-          Starwars - May the force be with you
+          Starwars - May the force be with you at MASTER
         </h1>
         <People />
       </div>
