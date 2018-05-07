@@ -17,5 +17,8 @@ console.log(store.getState());
 ReactDOM.render(
   <Provider store={store}>
     <App />
+
+
+  
   </Provider>
   , document.querySelector('.container'));
